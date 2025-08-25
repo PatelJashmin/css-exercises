@@ -1,0 +1,14 @@
+.clk-me,
+.no-clk-me {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman",sans-serif;    
+}
+
+.clk-me {
+    background-color: #000;
+    color: #FFF;
+}
+
+.no-clk-me {
+    background-color: #FF0;
+}
