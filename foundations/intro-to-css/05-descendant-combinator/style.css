@@ -1,0 +1,20 @@
+/* .container .text {
+    background-color: #FF0;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* div p {
+    background-color: #FF0;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+div .text {
+    background-color: #FF0;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
