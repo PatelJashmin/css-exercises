@@ -1,0 +1,17 @@
+.odd {
+    background-color: #ffc0cb;
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+.set-font-size {
+    font-size: 24px;
+}
+#even2 {
+    color:#0000ff;
+    font-size: 32px;
+}
+#even4 {
+    background-color: rgb(126, 236, 106);
+    /* font-size: 24px; This line was commented after seeing the solution, 
+    to avoid redundancy. */
+    font-weight: 700;
+}
